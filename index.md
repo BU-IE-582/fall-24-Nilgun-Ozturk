@@ -12,3 +12,9 @@ Check [my repository](https://github.com/BU-IE-582/fall-24-Nilgun-Ozturk)
 
 * [Report](https://bu-ie-582.github.io/fall-24-Nilgun-Ozturk/Files/NilgunSumeyyeOzturk_HW2.html)
 * [Code](https://bu-ie-582.github.io/fall-24-Nilgun-Ozturk/Files/NilgunSumeyyeOzturk_HW2.ipynb)
+
+  
+### Project
+
+* [Report](IE582Project/IE582Project-Report.html)
+* [Code](IE582Project/IE582Project-code.Rmd)
